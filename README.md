@@ -11,4 +11,5 @@ It simply does what it needed to do for me and successfully download all images 
 The name Kabul comes from the project I'm currently working on.
 
 ### Usage
-python3 ./kabul_download.py http://your-website/image-folder
+
+    python3 ./kabul_download.py http://your-website/image-folder
